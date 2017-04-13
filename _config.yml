@@ -3,3 +3,4 @@ email: info@calliope.cc
 description: Technische Dokumentation des Calliope mini.
 twitter_username: CalliopeMini
 github_username:  calliope-mini
+markdown: kramdown
