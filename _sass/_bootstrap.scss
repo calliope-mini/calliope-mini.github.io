@@ -54,3 +54,9 @@
 // Utility classes
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
+
+@media (max-width: 768px) {
+  body {
+    padding: 0 !important;
+  }
+}
