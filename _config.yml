@@ -4,3 +4,4 @@ description: Technische Dokumentation des Calliope mini.
 twitter_username: CalliopeMini
 github_username:  calliope-mini
 markdown: kramdown
+theme: minima
