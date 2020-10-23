@@ -11,6 +11,3 @@ Auf dieser Seite werden vorrangig technische Informationen zum Projekt bereitges
 Sonstige Informationen, wie Materialien, Kontakt etc. finden sich unter [calliope.cc](https://calliope.cc).
 
 ![Calliope](/assets/img/calliope_mini_02.png)
-
-
-![License](/assets/img/calliope_license.png)
